@@ -1,4 +1,6 @@
-### Hi there 👋
+### <h1 align="center">Hi👋. I'm Cristopher</h1>
+
+<h3 align="center">I'm a web developer, I'm currently study'm at the Instituto Tecnologico de Veracruz as Computer Systems Engineer.</h3>
 
 <!--
 **AscCrs/AscCrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
