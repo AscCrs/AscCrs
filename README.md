@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm a web developer, I'm currently study'm at the Instituto Tecnologico de Veracruz as Computer Systems Engineer.</h3>
 
+I'm currently learning  **Flask, develop of IoT systems and Vue.j**
+
 <!--
 **AscCrs/AscCrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
