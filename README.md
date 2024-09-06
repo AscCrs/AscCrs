@@ -19,6 +19,10 @@ I'm currently learning  **Flask, develop of IoT systems and Vue.j**
 ### Knowledges in terminals.
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) ![cmd](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asccrs&label=Profile%20views&color=0e75b6&style=flat" alt="asccrs" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asccrs" alt="asccrs" /></a> </p>
 <!--
 **AscCrs/AscCrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
