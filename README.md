@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Mexican web developer, I just want grow up in this industry and work in amazing projects where I can show my skills and knowledge to the world.</h3>
 
 # About Me
-I'm currently study'm at the Instituto Tecnologico de Veracruz as Computer Systems Engineer and I've learned to use some languages like C, C++, Python, Java, etc. Actually I have some knowledge in databases using MySQL, MariaDB and SQLServer. I got experience developing web pagges and web apps with vanilla JS and frameworks for Backend and Frontend, also i have experience using systems running in linux so I have certain notions of how to manage Servers, FTP Services, Apache Servers and some Network Services.
+I'm currently study'm at the Instituto Tecnologico de Veracruz as Computer Systems Engineer and I've learned to use some languages like C, C++, Python, Java, Javascript, Typescript, etc. Actually I have some knowledge in databases using MySQL, MariaDB and SQLServer. I got experience developing web pagges and web apps with vanilla JS and frameworks for Backend and Frontend, also i have experience using systems running in linux so I have certain notions of how to manage Servers, FTP Services, Apache Servers and some Network Services.
 
 In this moment I'm an organizing member of ITVer Competitive Programming Club. And I work as Front-End Developer
 
